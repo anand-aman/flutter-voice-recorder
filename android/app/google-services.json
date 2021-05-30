@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648867336579",
+    "project_id": "flutter-voice-chat",
+    "storage_bucket": "flutter-voice-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648867336579:android:0bdd8f9d7579611194e6b6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_voice_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648867336579-mdufrrgmnag1j4hg1j90a1eacd19erg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZDiyEvPk1q8I9-31Aze69XjR5J2LJrD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648867336579-mdufrrgmnag1j4hg1j90a1eacd19erg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
